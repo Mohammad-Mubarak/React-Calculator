@@ -1,0 +1,18 @@
+*{
+  padding: 0%;
+  margin: 0;
+  box-sizing: border-box;
+  background: #000;
+  color: aliceblue;
+}
+
+h1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 40px;
+  margin-bottom: 2rem;
+}
+
+.error{
+  margin-top: 1rem;
+  font-size: 20px;
+}

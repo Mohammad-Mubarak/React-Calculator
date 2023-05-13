@@ -1,0 +1,60 @@
+
+
+
+body{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+
+
+
+.parent{
+  margin-left: 10rem;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  flex-direction: column;
+  min-width: 70%;
+
+}
+
+
+.input-1,.intputTwo{
+  width: 50;
+  height: 2.5rem;
+  border: 1px solid white;
+  margin:0.5rem 0;
+}
+
+
+.parent_container{
+  display: flex;
+  width: 100%;
+  
+}
+
+.sign{
+  width:50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  background-color: aliceblue;
+  color: black;
+  font-weight: bold;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.result{
+  color: greenyellow;
+  font-size: 25px;
+}
+
+.finalResult{
+  font-size: 20px;
+  margin:2rem 0;
+}
